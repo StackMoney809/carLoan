@@ -1,16 +1,4 @@
-/************************************************************/
-/* Author: Rene Morales*/
-/* Creation Date: February 16, 2019 */
-/* Due Date: February 19, 2019 */
-/* Course: CSC135 030 */
-/* Professor Name: Dr. Manakkad */
-/* Assignment: #1 */
-/* Filename: carLoan.cpp.cpp */
-/* Purpose: This program will show the user how much they owed for their car loan and the total interest*/
-
-/************************************************************/
-
-#include <iostream> // pre processor
+#include <iostream>
 #include <iomanip> // for fixed, setprecision, setw
 #include <string> // to store the character vehicle
 #include <cmath> // allows the pow function to be used
